@@ -31,3 +31,6 @@ website/*
 release.sh
 wiki
 _*
+
+# agentic coding assistants
+.claude/settings.local.json
